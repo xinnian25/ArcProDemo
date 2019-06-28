@@ -4,6 +4,6 @@
 肯定有不好的地方，欢迎指正
 
 ![image](https://github.com/xinnian25/ArcProDemo/blob/master/images/xiao.gif)
-![image](https://github.com/xinnian25/ArcProDemo/blob/master/images/zhifu.gif)
-![image](https://github.com/xinnian25/ArcProDemo/blob/master/images/wx.gif)
+![image](https://github.com/xinnian25/ArcProDemo/blob/master/images/zhifu.jpg)
+![image](https://github.com/xinnian25/ArcProDemo/blob/master/images/wx.jpg)
 
